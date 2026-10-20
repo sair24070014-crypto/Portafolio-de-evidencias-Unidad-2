@@ -35,7 +35,7 @@ El objetivo de este portafolio es recopilar las actividades realizadas durante l
 2. [Questions and problems](#2-questions-and-problems)
 3. [Ejercicios de clase 2](#3-ejercicios-de-clase-2)
 4. [Presentación por equipos del segundo tipo de direccionamiento](#4-presentación-por-equipos-del-segundo-tipo-de-direccionamiento)
-5. [Questions and problems 2](#3-questions-and-problems-2)
+5. [Questions and problems 2](#5-questions-and-problems-2)
 6. [Reflexión general de la unidad](#reflexión-general-de-la-unidad)
 7. [Conclusión](#conclusión)
 
