@@ -35,8 +35,9 @@ El objetivo de este portafolio es recopilar las actividades realizadas durante l
 2. [Questions and problems](#2-questions-and-problems)
 3. [Ejercicios de clase 2](#3-ejercicios-de-clase-2)
 4. [Presentación por equipos del segundo tipo de direccionamiento](#4-presentación-por-equipos-del-segundo-tipo-de-direccionamiento)
-5. [Reflexión general de la unidad](#reflexión-general-de-la-unidad)
-6. [Conclusión](#conclusión)
+5. [Questions and problems 2](#3-questions-and-problems-2)
+6. [Reflexión general de la unidad](#reflexión-general-de-la-unidad)
+7. [Conclusión](#conclusión)
 
 ---
 
@@ -150,7 +151,7 @@ Más allá de identificar un aspecto técnico por mejorar sobre este tema, la ac
 
 ---
 
-# 5. Questions and problems 2 
+# 5. Questions and problems 2
 
 ## Descripción de la actividad
 
@@ -158,14 +159,31 @@ Como última actividad del segundo parcial, realizamos un segundo bloque de ejer
 
 ## Evidencias
 
-![Reporte RAM 6116](Reportef1.jpeg)
-![Reporte RAM 6116](Reportef2.jpeg)
-![Reporte RAM 6116](Reportef3.jpeg)
-![Reporte RAM 6116](Reportef4.jpeg)
-![Reporte RAM 6116](Reportef5.jpeg)
-![Reporte RAM 6116](Reportef6.jpeg)
-![Reporte RAM 6116](Reportef7.jpeg)
-![Reporte RAM 6116](Reportef8.jpeg)
+![Questions and problems 2](QAD2.jpeg)
+
+![Questions and problems 2](QAD2.2.jpeg)
+
+![Questions and problems 2](QAD2.3.jpeg)
+
+![Questions and problems 2](QAD2.4.jpeg)
+
+![Questions and problems 2](QAD2.5.jpeg)
+
+![Questions and problems 2](QAD2.6.jpeg)
+
+![Questions and problems 2](QAD2.7.jpeg)
+
+![Questions and problems 2](QAD2.8.jpeg)
+
+![Questions and problems 2](QAD2.9.jpeg)
+
+![Questions and problems 2](QAD2.10.jpeg)
+
+![Questions and problems 2](QAD2.11.jpeg)
+
+![Questions and problems 2](QAD2.12.jpeg)
+
+![Questions and problems 2](QAD2.13.jpeg)
 
 ## ¿Qué aprendí?
 
