@@ -33,7 +33,7 @@ El objetivo de este portafolio es recopilar las actividades realizadas durante l
 
 1. [Ejercicios de clase](#1-ejercicios-de-clase)
 2. [Questions and problems](#2-questions-and-problems)
-3. [Mapa conceptual de modelos de arquitectura de cómputo](#3-mapa-conceptual-de-modelos-de-arquitectura-de-cómputo)
+3. [Ejercicios de clase 2](#3-ejercicios-de-clase-2)
 4. [Práctica de memoria RAM 6116](#4-práctica-de-memoria-ram-6116)
 5. [Reflexión general de la unidad](#reflexión-general-de-la-unidad)
 6. [Conclusión](#conclusión)
@@ -103,10 +103,7 @@ Esta actividad se realizó durante la clase con ayuda del maestro, la cual consi
 
 ## Evidencia
 
-![Mapa conceptual](MapaArquitceturas.jpeg)
-![Mapa conceptual](MapaArquitecturasBibliografia.jpeg)
-![Mapa conceptual](MapaArquitceturasR.jpeg)
-![Mapa conceptual](MapaArquitceturasR2.jpeg)
+![Ejercicios de clase 2](Ejerciciosdeclase2.jpeg)
 
 ## ¿Qué aprendí?
 
