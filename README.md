@@ -134,12 +134,39 @@ Más allá de identificar un aspecto técnico por mejorar sobre este tema, la ac
 
 ---
 
+# 5. Questions and problems 2 
+
+## Descripción de la actividad
+
+Como última actividad del segundo parcial, realizamos un segundo bloque de ejercicios enfocado en los modos de direccionamiento de datos, contando nuevamente con el material proporcionado por el profesor. La actividad requirió describir el funcionamiento de ciertas operaciones, enumerar registros según su capacidad, detectar errores en operaciones específicas y emplear la instrucción MOV para transferencias. Además, se resolvieron problemas de transferencia de datos en los que se debía calcular la dirección inicial o accedida; estos ejercicios resultaron más complejos que los anteriores, ya que requerían de la realización múltiples sumas o algunas incluso requerían multiplicaciones adicionales.
+
+## Evidencias
+
+![Reporte RAM 6116](Reportef1.jpeg)
+![Reporte RAM 6116](Reportef2.jpeg)
+![Reporte RAM 6116](Reportef3.jpeg)
+![Reporte RAM 6116](Reportef4.jpeg)
+![Reporte RAM 6116](Reportef5.jpeg)
+![Reporte RAM 6116](Reportef6.jpeg)
+![Reporte RAM 6116](Reportef7.jpeg)
+![Reporte RAM 6116](Reportef8.jpeg)
+
+## ¿Qué aprendí?
+
+«A través de este bloque de ejercicios, mejoré el uso del direccionamiento de datos al identificar con rapidez el origen y el destino de la información. Asimismo, reforcé el manejo de los registros y sus distintas capacidades, aprendí a detectar cuándo una operación es incorrecta y comprendí de mejor manera las características de este método. Por otra parte, mejore mi capacidad de realizar operaciones hexadecimales más complejas, lo que me permite calcular con correctamente la dirección inicial o final de memoria.
+
+## Errores y aspectos por mejorar
+
+Como principal aspecto a mejorar, está la realización de ejercicios hexadecimales más complejos, ya que al momento de realizarlos puedo cometer pequeños errores, lo que me llevaría a realizar una actividad de forma incorrecta. Otro posible aspecto que reconozco que debo mejorar es el reconocimiento de registros, ya que, a pesar de que ahora tengo un mejor conocimiento de ellos, podría ser mucho mejor al reconocerlos, así como su capacidad y la funcionalidad de todos.
+
+---
+
 # Reflexión general de la unidad
 
-La unidad fue muy interesante al poder ampliar conocimientos previos y relacionarlos entre sí; de igual manera, pude conocer temas nuevos los cuales son muy interesantes y útiles. Pude aprender las diferentes arquitecturas de computadoras, sus características, ventajas y desventajas. De igual manera, pude ver la evolución de las distintas tecnologías por las que han pasado los equipos de cómputo, desde los tubos al vacío hasta los microprocesadores y memorias semiconductoras. Comprendí los diferentes tipos de memorias, el porqué unas son más caras, veloces o con mayor almacenamiento, la diferencia entre arquitectura u organización, sobre los buses y demás temas de suma importancia. En general, pienso que la unidad fue muy interesante y me será muy útil al haber aprendido conceptos básicos los cuales me servirán en temas futuros.
+La unidad fue muy interesante al poder ampliar conocimientos previos y relacionarlos entre sí; de igual manera, pude conocer temas nuevos relacionados con el funcionamiento interno del microprocesador y el manejo de la memoria. Pude aprender sobre la arquitectura interna del microprocesador, los diferentes tipos de registros y la función que cumple cada uno, así como el registro de banderas y su importancia dentro del procesamiento de la información. De igual manera, pude comprender cómo se realiza el direccionamiento de memoria en modo real, además de conocer otros modelos como el modo protegido. En general, pienso que la unidad fue muy interesante y me será muy útil, ya que pude comprender mejor cómo funciona internamente un microprocesador y cómo se relaciona con la memoria, adquiriendo conocimientos que me servirán para comprender temas futuros de la asignatura.
 
 ---
 
 # Conclusión
 
-En conclusión, considero que esta unidad ha estado llena de aprendizajes nuevos e importantes, como por ejemplo las arquitecturas de computadoras, la evolución de los equipos de cómputo y la utilización de nuevos integrados; pero de igual manera me sirvió para refrescar temas vistos antes, como los números binarios y el armado de circuitos electrónicos en protoboard. Considero que todos los aprendizajes adquiridos en la unidad me serán de gran utilidad en el ámbito profesional, al poder entender de mejor manera los equipos de cómputo.
+En conclusión, considero que esta unidad ha estado llena de aprendizajes nuevos e importantes, como por ejemplo la arquitectura interna del microprocesador, los diferentes tipos de registros, el registro de banderas y las distintas formas de direccionamiento de memoria. De igual manera, me sirvió para comprender mejor cómo se relaciona el microprocesador con la memoria y cómo se manejan las direcciones de memoria mediante el modo real y el modo protegido. Considero que todos los aprendizajes adquiridos en la unidad me serán de gran utilidad en el ámbito profesional, ya que me permitirán comprender de mejor manera el funcionamiento interno de los equipos de cómputo y me servirán como base para abordar temas más avanzados en el futuro.
