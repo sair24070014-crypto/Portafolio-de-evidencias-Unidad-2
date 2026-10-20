@@ -34,7 +34,7 @@ El objetivo de este portafolio es recopilar las actividades realizadas durante l
 1. [Ejercicios de clase](#1-ejercicios-de-clase)
 2. [Questions and problems](#2-questions-and-problems)
 3. [Ejercicios de clase 2](#3-ejercicios-de-clase-2)
-4. [Práctica de memoria RAM 6116](#4-práctica-de-memoria-ram-6116)
+4. [Presentación por equipos del segundo tipo de direccionamiento](#4-presentación-por-equipos-del-segundo-tipo-de-direccionamiento)
 5. [Reflexión general de la unidad](#reflexión-general-de-la-unidad)
 6. [Conclusión](#conclusión)
 
@@ -124,14 +124,21 @@ Para profundizar en los modos de direccionamiento de datos, realizamos una expos
 
 ## Evidencias
 
-![Reporte RAM 6116](Reportef1.jpeg)
-![Reporte RAM 6116](Reportef2.jpeg)
-![Reporte RAM 6116](Reportef3.jpeg)
-![Reporte RAM 6116](Reportef4.jpeg)
-![Reporte RAM 6116](Reportef5.jpeg)
-![Reporte RAM 6116](Reportef6.jpeg)
-![Reporte RAM 6116](Reportef7.jpeg)
-![Reporte RAM 6116](Reportef8.jpeg)
+![Presentación por equipos del segundo tipo de direccionamiento](1.jpeg)
+
+![Presentación por equipos del segundo tipo de direccionamiento](2.jpeg)
+
+![Presentación por equipos del segundo tipo de direccionamiento](3.jpeg)
+
+![Presentación por equipos del segundo tipo de direccionamiento](4.jpeg)
+
+![Presentación por equipos del segundo tipo de direccionamiento](5.jpeg)
+
+![Presentación por equipos del segundo tipo de direccionamiento](6.jpeg)
+
+![Presentación por equipos del segundo tipo de direccionamiento](7.jpeg)
+
+![Presentación por equipos del segundo tipo de direccionamiento](8.jpeg)
 
 ## ¿Qué aprendí?
 
