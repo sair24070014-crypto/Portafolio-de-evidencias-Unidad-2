@@ -124,21 +124,21 @@ Para profundizar en los modos de direccionamiento de datos, realizamos una expos
 
 ## Evidencias
 
-![Presentación por equipos del segundo tipo de direccionamiento](1.jpeg)
+![Presentación por equipos del segundo tipo de direccionamiento](1.png)
 
-![Presentación por equipos del segundo tipo de direccionamiento](2.jpeg)
+![Presentación por equipos del segundo tipo de direccionamiento](2.png)
 
-![Presentación por equipos del segundo tipo de direccionamiento](3.jpeg)
+![Presentación por equipos del segundo tipo de direccionamiento](3.png)
 
-![Presentación por equipos del segundo tipo de direccionamiento](4.jpeg)
+![Presentación por equipos del segundo tipo de direccionamiento](4.png)
 
-![Presentación por equipos del segundo tipo de direccionamiento](5.jpeg)
+![Presentación por equipos del segundo tipo de direccionamiento](5.png)
 
-![Presentación por equipos del segundo tipo de direccionamiento](6.jpeg)
+![Presentación por equipos del segundo tipo de direccionamiento](6.png)
 
-![Presentación por equipos del segundo tipo de direccionamiento](7.jpeg)
+![Presentación por equipos del segundo tipo de direccionamiento](7.png)
 
-![Presentación por equipos del segundo tipo de direccionamiento](8.jpeg)
+![Presentación por equipos del segundo tipo de direccionamiento](8.png)
 
 ## ¿Qué aprendí?
 
