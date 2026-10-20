@@ -32,7 +32,7 @@ El objetivo de este portafolio es recopilar las actividades realizadas durante l
 # Índice
 
 1. [Ejercicios de clase](#1-ejercicios-de-clase)
-2. [Programación de la IAS](#2-programación-de-la-ias)
+2. [Questions and problems](#2-questions-and-problems)
 3. [Mapa conceptual de modelos de arquitectura de cómputo](#3-mapa-conceptual-de-modelos-de-arquitectura-de-cómputo)
 4. [Práctica de memoria RAM 6116](#4-práctica-de-memoria-ram-6116)
 5. [Reflexión general de la unidad](#reflexión-general-de-la-unidad)
@@ -69,10 +69,21 @@ Para esta segunda actividad, el profesor proporcionó un bloque de preguntas y e
 
 ## Evidencias
 
-![Programa IAS - suma](programIAS.jpeg)
+![Questions and problems ejer](QAD1.jpeg)
 
-![Programa IAS - comparación y pregunta extra](programIAS2.jpeg)
+![Questions and problems ejer](QAD1.2.jpeg)
 
+![Questions and problems ejer](QAD1.3.jpeg)
+
+![Questions and problems ejer](QAD1.4.jpeg)
+
+![Questions and problems ejer](QAD1.5.jpeg)
+
+![Questions and problems ejer](QAD1.6.jpeg)
+
+![Questions and problems ejer](QAD1.7.jpeg)
+
+![Questions and problems ejer](QAD1.8.jpeg)
 
 ## ¿Qué aprendí?
 
