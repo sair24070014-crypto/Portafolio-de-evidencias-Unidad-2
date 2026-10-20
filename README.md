@@ -104,6 +104,7 @@ Esta actividad se realizó durante la clase con ayuda del maestro, la cual consi
 ## Evidencia
 
 ![Ejercicios de clase 2](Ejerciciosdeclase2.jpeg)
+![Ejercicios de clase 2](Ejerciciosdeclase2.2.jpeg)
 
 ## ¿Qué aprendí?
 
