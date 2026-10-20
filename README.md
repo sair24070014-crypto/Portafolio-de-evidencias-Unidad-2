@@ -48,8 +48,8 @@ Como primera actividad del parcial, se realizó este bloque de ejercicios durant
 
 ## Evidencia
 
-![Prueba diagnóstica](Pd.jpeg)
-![Prueba diagnóstica](Pd2.jpeg)
+![Ejercicios de clase](Ejerciciosdeclase1.jpeg)
+![Ejercicios de clase](Ejerciciosdeclase1.2.jpeg)
 
 ## ¿Qué aprendí?
 
