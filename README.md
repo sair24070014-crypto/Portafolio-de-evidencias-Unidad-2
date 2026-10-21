@@ -31,17 +31,24 @@ El objetivo de este portafolio es recopilar las actividades realizadas durante l
 
 # Índice
 
-1. [Ejercicios de clase](#1-ejercicios-de-clase)
-2. [Questions and problems](#2-questions-and-problems)
-3. [Ejercicios de clase 2](#3-ejercicios-de-clase-2)
-4. [Presentación por equipos del segundo tipo de direccionamiento](#4-presentación-por-equipos-del-segundo-tipo-de-direccionamiento)
-5. [Questions and problems 2](#5-questions-and-problems-2)
-6. [Reflexión general de la unidad](#reflexión-general-de-la-unidad)
-7. [Conclusión](#conclusión)
+1. [Rubrica del portafolio de la unidad 1](#1-rubrica-del-portafolio-de-la-unidad-1)
+2. [Ejercicios de clase](#2-ejercicios-de-clase)
+3. [Questions and problems](#3-questions-and-problems)
+4. [Ejercicios de clase 2](#4-ejercicios-de-clase-2)
+5. [Presentación por equipos del segundo tipo de direccionamiento](#5-presentación-por-equipos-del-segundo-tipo-de-direccionamiento)
+6. [Questions and problems 2](#6-questions-and-problems-2)
+7. [Reflexión general de la unidad](#reflexión-general-de-la-unidad)
+8. [Conclusión](#conclusión)
 
 ---
 
-# 1. Ejercicios de clase
+# 1. Rubrica del portafolio de la unidad 1
+
+![Rubrica del portafolio de la unidad 1](rubrica_u1.jpeg)
+
+---
+
+# 2. Ejercicios de clase
 
 ## Descripción de la actividad
 
@@ -62,7 +69,7 @@ Con esta actividad pude darme cuenta de que necesitaba recordar y fortalecer mis
 
 ---
 
-# 2. Questions and problems
+# 3. Questions and problems
 
 ## Descripción de la actividad
 
@@ -96,7 +103,7 @@ En primer lugar, necesito estudiar más a fondo cada uno de los registros, ya qu
 
 ---
 
-# 3. Ejercicios de clase 2
+# 4. Ejercicios de clase 2
 
 ## Descripción de la actividad
 
@@ -117,7 +124,7 @@ Uno de los aspectos en los que necesito mejorar es la identificación de los dis
 
 ---
 
-# 4. Presentación por equipos del segundo tipo de direccionamiento  
+# 5. Presentación por equipos del segundo tipo de direccionamiento  
 
 ## Descripción de la actividad
 
@@ -151,7 +158,7 @@ Más allá de identificar un aspecto técnico por mejorar sobre este tema, la ac
 
 ---
 
-# 5. Questions and problems 2
+# 6. Questions and problems 2
 
 ## Descripción de la actividad
 
